@@ -8,3 +8,5 @@ StonksAI is an experimental stock prediction neural network created by APCodeZ.
 A series of 200 days are stitched together creating a video.
 
 These videos are used to train a generative adversarial network to predict the next few frames after the end of the video, which can be converted back into stock performance.
+
+This is a work-in-progress.
